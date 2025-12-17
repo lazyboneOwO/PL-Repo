@@ -11,4 +11,8 @@
 -[HW2](https://colab.research.google.com/drive/1ncZ5Hny3z0sk0VDgKMXomYeYDYJbYI_q?usp=sharing)
 
 -[HW3](https://colab.research.google.com/drive/13wbCQUGbUJgosyUV4lJNuLJXSOiX8P88?usp=sharing)
+
+-[HW4](https://colab.research.google.com/drive/1DrLaVcvr4UG1Fvwn-aRSZzu7HxbQpM8M?usp=sharing)
+
+-[HW5](https://colab.research.google.com/drive/1uGL88LFH4GeW6uEFGO7ZmoYPr1JPhLrO?usp=sharing)
 # 專題連結區
